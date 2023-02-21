@@ -8,14 +8,14 @@
 ---
 
 <div align="center">
-<h3> About Me </h3> 
-      <p> Full-Stack Software Engineer @ Nimbus </p>
-      <p> Sneaker Collector, Dog Mom, Fitness Enthusiast </p>
+<h3> About Me 👩‍💻 </h3> 
+      <p>  Software Engineer @ Nimbus  </p>
+      <p> 👟 Sneaker Collector, 🐶 Dog Mom, 🏋️ Fitness Enthusiast </p>
 </div>
 
 ---
 <div align="center">
-      <h3> Technical Skills </h3>
+      <h3> ⛓️ Technical Skills ⛓️ </h3>
       <div align="center" style="display: flex; align-items: center;">
         <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
         <img align="center" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50" height="50"/>&nbsp;
