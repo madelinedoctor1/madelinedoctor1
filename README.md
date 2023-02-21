@@ -8,7 +8,7 @@
 ---
 
 <div align="center">
-<h3> About Me 👩‍💻 </h3> 
+<h3> 👩‍💻 About Me 👩‍💻 </h3> 
       <p>  Software Engineer @ Nimbus  </p>
       <p> 👟 Sneaker Collector, 🐶 Dog Mom, 🏋️ Fitness Enthusiast </p>
 </div>
