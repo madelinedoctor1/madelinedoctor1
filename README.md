@@ -1,16 +1,10 @@
 <div align="center">
-<h3> Hi, I'm Madeline Doctor <h3/>
-<a href="https://www.linkedin.com/in/madeline-doctor/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-</div>
-  
----
-
-<div align="center">
 <h3> 👩‍💻 About Me 👩‍💻 </h3> 
       <p>  Software Engineer @ Nimbus  </p>
 <!--       <p> 👟 Sneaker Collector, 🐶 Dog Mom, 🏋️ Fitness Enthusiast </p> -->
+      <a href="https://www.linkedin.com/in/madeline-doctor/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 </div>
 
 ---
